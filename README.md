@@ -1,4 +1,5 @@
-# QHack2023Challenges
+# QHack2023Challenges <img src="https://user-images.githubusercontent.com/57539040/223049483-5f178e1c-cbbc-4098-89b7-745279af8a72.png" align='center' height=70px width=70px>
+
 
 Our solutions to the [QHack2023](https://qhack.ai/) quantum computing challenges. The answers in files with "-AC" in their name are officially accepted solutions.
 
